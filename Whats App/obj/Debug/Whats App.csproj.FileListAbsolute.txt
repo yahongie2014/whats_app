@@ -1,0 +1,63 @@
+c:\users\ahmed\documents\visual studio 2013\Projects\Whats App\Whats App\bin\Debug\App.xbf
+c:\users\ahmed\documents\visual studio 2013\Projects\Whats App\Whats App\bin\Debug\MainPage.xbf
+c:\users\ahmed\documents\visual studio 2013\Projects\Whats App\Whats App\bin\Debug\Whats App.exe
+c:\users\ahmed\documents\visual studio 2013\Projects\Whats App\Whats App\bin\Debug\Whats App.pdb
+c:\users\ahmed\documents\visual studio 2013\Projects\Whats App\Whats App\bin\Debug\resources.pri
+c:\users\ahmed\documents\visual studio 2013\Projects\Whats App\Whats App\bin\Debug\AppxManifest.xml
+c:\users\ahmed\documents\visual studio 2013\Projects\Whats App\Whats App\bin\Debug\Whats App.build.appxrecipe
+c:\users\ahmed\documents\visual studio 2013\Projects\Whats App\Whats App\obj\Debug\App.g.i.cs
+c:\users\ahmed\documents\visual studio 2013\Projects\Whats App\Whats App\obj\Debug\App.g.cs
+c:\users\ahmed\documents\visual studio 2013\Projects\Whats App\Whats App\obj\Debug\MainPage.g.i.cs
+c:\users\ahmed\documents\visual studio 2013\Projects\Whats App\Whats App\obj\Debug\MainPage.g.cs
+c:\users\ahmed\documents\visual studio 2013\Projects\Whats App\Whats App\obj\Debug\XamlTypeInfo.g.cs
+c:\users\ahmed\documents\visual studio 2013\Projects\Whats App\Whats App\obj\Debug\App.xaml
+c:\users\ahmed\documents\visual studio 2013\Projects\Whats App\Whats App\obj\Debug\App.xbf
+c:\users\ahmed\documents\visual studio 2013\Projects\Whats App\Whats App\obj\Debug\XamlSaveStateFile.xml
+c:\users\ahmed\documents\visual studio 2013\Projects\Whats App\Whats App\obj\Debug\MainPage.xaml
+c:\users\ahmed\documents\visual studio 2013\Projects\Whats App\Whats App\obj\Debug\MainPage.xbf
+c:\users\ahmed\documents\visual studio 2013\Projects\Whats App\Whats App\obj\Debug\Whats App.exe
+c:\users\ahmed\documents\visual studio 2013\Projects\Whats App\Whats App\obj\Debug\Whats App.pdb
+c:\users\ahmed\documents\visual studio 2013\Projects\Whats App\Whats App\obj\Debug\priconfig.xml
+c:\users\ahmed\documents\visual studio 2013\Projects\Whats App\Whats App\obj\Debug\priconfig.xml.intermediate
+c:\users\ahmed\documents\visual studio 2013\Projects\Whats App\Whats App\obj\Debug\layout.resfiles
+c:\users\ahmed\documents\visual studio 2013\Projects\Whats App\Whats App\obj\Debug\layout.resfiles.intermediate
+c:\users\ahmed\documents\visual studio 2013\Projects\Whats App\Whats App\obj\Debug\resources.resfiles
+c:\users\ahmed\documents\visual studio 2013\Projects\Whats App\Whats App\obj\Debug\resources.resfiles.intermediate
+c:\users\ahmed\documents\visual studio 2013\Projects\Whats App\Whats App\obj\Debug\pri.resfiles
+c:\users\ahmed\documents\visual studio 2013\Projects\Whats App\Whats App\obj\Debug\pri.resfiles.intermediate
+c:\users\ahmed\documents\visual studio 2013\Projects\Whats App\Whats App\obj\Debug\qualifiers.txt
+c:\users\ahmed\documents\visual studio 2013\Projects\Whats App\Whats App\obj\Debug\qualifiers.txt.intermediate
+c:\users\ahmed\documents\visual studio 2013\Projects\Whats App\Whats App\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\ahmed\documents\visual studio 2013\Projects\Whats App\Whats App\obj\Debug\ProjectArchitectures.txt
+F:\my work\Whats App\Whats App\bin\Debug\App.xbf
+F:\my work\Whats App\Whats App\bin\Debug\MainPage.xbf
+F:\my work\Whats App\Whats App\bin\Debug\Whats App.xr.xml
+F:\my work\Whats App\Whats App\bin\Debug\Whats App.exe
+F:\my work\Whats App\Whats App\bin\Debug\Whats App.pdb
+F:\my work\Whats App\Whats App\bin\Debug\resources.pri
+F:\my work\Whats App\Whats App\bin\Debug\AppxManifest.xml
+F:\my work\Whats App\Whats App\bin\Debug\Whats App.build.appxrecipe
+F:\my work\Whats App\Whats App\obj\Debug\App.g.i.cs
+F:\my work\Whats App\Whats App\obj\Debug\App.g.cs
+F:\my work\Whats App\Whats App\obj\Debug\MainPage.g.i.cs
+F:\my work\Whats App\Whats App\obj\Debug\MainPage.g.cs
+F:\my work\Whats App\Whats App\obj\Debug\XamlTypeInfo.g.cs
+F:\my work\Whats App\Whats App\obj\Debug\App.xaml
+F:\my work\Whats App\Whats App\obj\Debug\MainPage.xaml
+F:\my work\Whats App\Whats App\obj\Debug\App.xbf
+F:\my work\Whats App\Whats App\obj\Debug\MainPage.xbf
+F:\my work\Whats App\Whats App\obj\Debug\XamlSaveStateFile.xml
+F:\my work\Whats App\Whats App\obj\Debug\Whats App.exe
+F:\my work\Whats App\Whats App\obj\Debug\Whats App.pdb
+F:\my work\Whats App\Whats App\obj\Debug\priconfig.xml
+F:\my work\Whats App\Whats App\obj\Debug\priconfig.xml.intermediate
+F:\my work\Whats App\Whats App\obj\Debug\layout.resfiles
+F:\my work\Whats App\Whats App\obj\Debug\layout.resfiles.intermediate
+F:\my work\Whats App\Whats App\obj\Debug\resources.resfiles
+F:\my work\Whats App\Whats App\obj\Debug\resources.resfiles.intermediate
+F:\my work\Whats App\Whats App\obj\Debug\pri.resfiles
+F:\my work\Whats App\Whats App\obj\Debug\pri.resfiles.intermediate
+F:\my work\Whats App\Whats App\obj\Debug\qualifiers.txt
+F:\my work\Whats App\Whats App\obj\Debug\qualifiers.txt.intermediate
+F:\my work\Whats App\Whats App\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+F:\my work\Whats App\Whats App\obj\Debug\ProjectArchitectures.txt

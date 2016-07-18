@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>YAHONGIE</Machine>
+    <WindowsUser>Ahmed</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>d910c99a-3bad-4644-88dc-21917f4abc2f</PackageIdentityName>
+    <RegisteredManifestChecksum>CFEF02F2D6BF7BF81227EBB6401AA5BE7D4CABDBDD8990D2B37464871E926EBE</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>d910c99a-3bad-4644-88dc-21917f4abc2f_1.0.0.0_neutral__jarrs3vj594qe</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>d910c99a-3bad-4644-88dc-21917f4abc2f_jarrs3vj594qe!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>d910c99a-3bad-4644-88dc-21917f4abc2f</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Ahmed</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Whats App\Whats App\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-27T17:42:22.885</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Whats App\Whats App\bin\Debug\Whats App.exe">
+      <PackagePath>Whats App.exe</PackagePath>
+      <Modified>2015-04-27T19:45:56.192</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Whats App\Whats App\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-27T16:29:27.777</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Whats App\Whats App\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-27T16:42:24.916</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Whats App\Whats App\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-27T16:45:05.273</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Whats App\Whats App\Assets\Square310x310Logo.scale-100.png">
+      <PackagePath>Assets\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-27T16:36:37.179</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Whats App\Whats App\Assets\Square70x70Logo.scale-100.png">
+      <PackagePath>Assets\Square70x70Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-27T16:34:29.340</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Whats App\Whats App\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-27T16:43:25.386</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Whats App\Whats App\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-04-27T16:32:20.668</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Whats App\Whats App\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-04-27T16:54:32.471</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Whats App\Whats App\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-04-27T17:14:55.633</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Ahmed\Documents\Visual Studio 2013\Projects\Whats App\Whats App\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-04-27T17:42:22.783</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
